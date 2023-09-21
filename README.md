@@ -1,5 +1,4 @@
-# gcc-install
-Repo guide for gcc installation on different operative systems
+# GCC installation guide
 
 GCC, o GNU Compiler Collection, è un compilatore open source utilizzato per lo sviluppo e l'esecuzione di vari linguaggi di programmazione, tra cui C, C++, Fortran, Ada e altri. 
 
@@ -24,7 +23,7 @@ Per testare che l'installazione sia avvenuta con successo:
 ```bash
 gcc --version
 ```
-Sul terminale deve comparire il messaggio con la verisone
+Sul terminale deve comparire il messaggio con una versione specificata 
 
 ```bash
 gcc (Ubuntu 9.4.0-1ubuntu1~20.04.1) 9.4.0
