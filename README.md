@@ -38,8 +38,8 @@ warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 Alternativa funzionante: seguire la guida di VSCode con utilizzo di MSYS2 a questo [link](https://code.visualstudio.com/docs/cpp/config-mingw).
 
 
+Con installer automatico (Disclaimer: non funziona)
 Eseguire il download di MinGW-w64 da [SourceForge](https://sourceforge.net/projects/mingw-w64/).
-
 Ad oggi l'installer automatico .exe è rotto.
  
 Una volta completato il download, eseguire il file .exe e seguire le istruzioni a schermo per completare l'installazione.
