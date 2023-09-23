@@ -45,5 +45,6 @@ Una volta completato il download, eseguire il file .exe e seguire le istruzioni 
 
 Post con guida: [Installing GCC Compiler in Windows To Run C Program on Gitbash and Setting the PATH Variable](https://www.linkedin.com/pulse/installing-gcc-compiler-windows-run-c-program-gitbash-david-michael/)
 
-Guida utile su youtube: [link](https://www.youtube.com/watch?v=FEeFG9OR-QU)
+
+
 
