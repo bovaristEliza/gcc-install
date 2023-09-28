@@ -32,6 +32,12 @@ This is free software; see the source for copying conditions.  There is NO
 warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
 ```
 
+Per installare il sottosistema linux per windows (WSL) seguire il tutorial: [Tutorial](https://ubuntu.com/tutorials/install-ubuntu-on-wsl2-on-windows-10#1-overview)
+Una volta eseguiti tutti i passaggi, installare il compilatore GCC da terminale ubuntu, seguendo i passaggi precedenti.
+
+Per utilizzare VSCode da WSL bisgona effettuare la connessione a terminale remoto dal menu in basso a destra col simbolo >< 
+
+
 ### Installazione MinGW-w64 direttamente su Windows (SCONSIGLIATO!) con prompt dei comandi
 
 Alternativa funzionante: seguire la guida di VSCode con utilizzo di MSYS2 a questo [link](https://code.visualstudio.com/docs/cpp/config-mingw).
