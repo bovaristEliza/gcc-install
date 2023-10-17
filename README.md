@@ -54,13 +54,6 @@ Qui sotto sono riportate alcune guide per l'installazione di MinGW-w64 su Window
 Alternativa funzionante: seguire la guida di VSCode con utilizzo di MSYS2 a questo [link](https://code.visualstudio.com/docs/cpp/config-mingw).
 
 
-Con installer automatico (Disclaimer: non funziona)
-Eseguire il download di MinGW-w64 da [SourceForge](https://sourceforge.net/projects/mingw-w64/).
-Ad oggi l'installer automatico .exe è rotto.
- 
-Una volta completato il download, eseguire il file .exe e seguire le istruzioni a schermo per completare l'installazione.
-
-Post con guida: [Installing GCC Compiler in Windows To Run C Program on Gitbash and Setting the PATH Variable](https://www.linkedin.com/pulse/installing-gcc-compiler-windows-run-c-program-gitbash-david-michael/)
 
 
 
